@@ -1,30 +1,20 @@
-# Antenna & Wave Propagation Assignment
-**Course Code: ECPC-307**
+# Helical Antenna
 
 ## Aim
-The aim of this assignment is to develop a Graphical User Interface (GUI) for the calculation in the Friis Transmission Equation using given parameters, implemented in Python.
+The aim of this project is to create a GUI for the design of a helical antenna with CST Software and Octave.
 
 ## Overview
-The assignment focuses on creating a Python-based GUI to facilitate the calculation process based on the Friis Transmission Equation. This equation describes the power transfer between two antennas in free space. The Python GUI will provide an efficient and interactive tool for students and researchers studying antenna and wave propagation.
+The project focuses on developing a GUI that facilitates the design and analysis of helical antennas, allowing users to input parameters, visualize the antenna, and analyze its performance.
 
-## Components of the Python GUI
-1. **Input Parameters:**
-   - Frequency of operation (in Hertz)
-   - Transmitting antenna gain (in dB)
-   - Receiving antenna gain (in dB)
-   - Distance between antennas (in meters)
-   - System losses (in dB)
+## Outputs
+CST Software :
+![image](https://github.com/princeranjan03/Helical_Antenna/blob/main/outputs/WhatsApp%20Image%202024-04-27%20at%2015.11.02.jpeg)<br><br>
+![image](https://github.com/princeranjan03/Helical_Antenna/blob/main/outputs/WhatsApp%20Image%202024-04-27%20at%2015.11.11.jpeg)<br><br>
+![image](https://github.com/princeranjan03/Helical_Antenna/blob/main/outputs/WhatsApp%20Image%202024-04-27%20at%2015.11.15.jpeg)<br><br>
+![image](https://github.com/princeranjan03/Helical_Antenna/blob/main/outputs/WhatsApp%20Image%202024-04-27%20at%2015.11.19.jpeg)<br><br>
+![image](https://github.com/princeranjan03/Helical_Antenna/blob/main/outputs/WhatsApp%20Image%202024-04-27%20at%2015.11.35.jpeg)<br><br>
+![image](https://github.com/princeranjan03/Helical_Antenna/blob/main/outputs/WhatsApp%20Image%202024-04-27%20at%2015.11.32.jpeg)<br><br>
+Octave :
+![image](https://github.com/princeranjan03/Helical_Antenna/blob/main/outputs/WhatsApp%20Image%202024-04-27%20at%2015.10.51.jpeg)<br><br>
+   
 
-2. **Calculation Button:**
-   - Implement a button to initiate the calculation based on the entered parameters.
-
-3. **Output Display:**
-   - Display the calculated Received Power on Reciever side using the Friis Transmission Equation.
-   - A simple animation depicting the Friis transmission equation
-
-## Python GUI Usage Instructions
-Follow these steps to use the Python GUI effectively:
-
-1. Ensure Python is installed on your system.
-2. Run the Python script for the GUI.
-3. Enter the required parameters in the designated input fields.
